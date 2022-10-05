@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Transfer Learning Using Pytorch
-thumbnail-img: /assets/img/Transfer_Learning_Catdog_Classification/test_result.jpeg
-share-img: /assets/img/Transfer_Learning_Catdog_Classification/test_result.jpeg
+thumbnail-img: /assets/img/Transfer_Learning_Catdog_Classification/test_result.png
+share-img: /assets/img/Transfer_Learning_Catdog_Classification/test_result.png
 tags: [transfer learning, pytorch, resnet, custom dataset]
 ---
 
