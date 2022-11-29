@@ -10,10 +10,9 @@ subtitle: ML/DL Researcher & Engineer
 
 1. 침입절도 사고 데이터 분석 프로젝트
     - 진행 기관 : ADT 캡스, SKT
-    - 프로젝트 목표 : ADT 침입절도 사고 데이터 기반 제주 전지역 위험지수 예측, 순찰경로 추천
-    - 데이터 : ADT 사건사고, 출동 데이터, SKT 유동인구, 매출데이터
+    - 프로젝트 내용 : ADT 침입절도 사고 데이터 기반 제주 전지역 위험지수 예측, 순찰경로 추천
     - 언어 : python, sql
-    - Model : Boosting 알고리즘 비교분석
+    - Model : Boosting 모델
 
 2. 뉴스 빅데이터 분석 프로젝트
     - 진행 기관 : 소프트웨어 정책연구소(SPRI)
@@ -37,7 +36,7 @@ subtitle: ML/DL Researcher & Engineer
     - 분석 결과 기반 학습코칭 제안
 
 2. 전사 데이터 분석 니즈 대응
-    - 데이터마트 구축 : 온프레미스 DB 마이그레이션(AWS), 분석용 테이블 생성(AWS-EMR)
+    - 데이터마트 구축 : Bronze Data 가공(전처리 및 aggregation, AWS-EMR)
     - 분석 대시보드 생성(AWS-Athena)
 
 
