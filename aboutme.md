@@ -28,15 +28,25 @@ subtitle: ML/DL Researcher & Engineer
     - 게임 내 비속어 사용시 블라인드 처리를 위한 탐지 모델 개발
     - Ability : RCNN 기반 모델 생성
 
-- **천재교과서** (AI센터 개발운영팀, 2021.09 ~ )  
+- **천재교과서** (AI센터 개발운영팀, 2021.09 ~ 2023.02)  
 
 1. 유저 학습패턴 분석
     - 유저 활동 지표 정의, 분석 결과 기반 학습코칭 제안
     - Ability : 분석 시각화(python, tableau), 클러스터링
 
 2. 전사 데이터 분석
-    - 데이터 가공(ods > dw > dm), 분석 결과 대시보드 생성
+    - 데이터 가공, 분석 결과 대시보드 생성
     - Ability : AWS(EMR, Airflow, Quicksight)
+
+- **교원** (AI서비스개발팀, 2023.03 ~ )  
+
+1. 실시간 서비스 운영
+    - 풀이습관 예측 서비스, 진단평가 IRT 서비스 모델 개선 및 운영
+    - Ability : AWS(Step Function, Lambda, ECS)
+
+2. 모델 검증
+    - 진단평가 IRT 서비스 검증 : 검증 지표 설정 및 성능 평가
+    - Ability : 통계적 검증
 
 
 제가 진행한 AI 프로젝트들을 참조해주세요.
