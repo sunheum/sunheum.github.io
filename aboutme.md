@@ -34,11 +34,15 @@ subtitle: ML/DL Researcher & Engineer
     - 유저 활동 지표 정의, 분석 결과 기반 학습코칭 제안
     - Ability : 분석 시각화(python, tableau), 클러스터링
 
-2. 전사 데이터 분석
-    - 데이터 가공, 분석 결과 대시보드 생성
+2. 데이터 마트 구축
+    - 데이터 ETL 파이프라인 운영
     - Ability : AWS(EMR, Airflow, Quicksight)
 
-- **교원** (AI서비스개발팀, 2023.03 ~ )  
+3. 지식추적 모델 개발 및 운영
+    - DKT 기반 모델 개발
+    - Ability : pytorch
+
+- **교원** (AI서비스개발팀 분석파트, 2023.03 ~ 2024.04)  
 
 1. 실시간 서비스 운영
     - 풀이습관 예측 서비스, 진단평가 IRT 서비스 모델 개선 및 운영
@@ -47,6 +51,20 @@ subtitle: ML/DL Researcher & Engineer
 2. 모델 검증
     - 진단평가 IRT 서비스 검증 : 검증 지표 설정 및 성능 평가
     - Ability : 통계적 검증
+
+(에듀테크플랫폼팀 DevOps파트, 2024.05 ~)
+
+1. Public cloud 운영
+    - 아이캔두 초등, Wells IoT 서비스 운영
+    - Ability : AWS, Azure
+
+2. 온프레미스 인프라 운영
+    - 서버 관리, 장애 등 이슈 해결
+    - Ability : 인프라, WEB/WAS
+
+3. 서버 모니터링
+    - 관제 서비스 운영 및 유지보수
+    - Ability : Grafana, Prometheus
 
 
 제가 진행한 AI 프로젝트들을 참조해주세요.
